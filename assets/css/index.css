@@ -1,0 +1,171 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+a {
+  color: #d2940faf;
+  text-decoration: underline;
+}
+
+.fw-800 {
+  font-weight: 800;
+}
+
+.fw-700 {
+  font-weight: 700;
+}
+
+.ff-hooltwood {
+  font-family: "Holtwood One SC", serif !important;
+}
+
+.carousel-item img {
+  object-fit: cover;
+  object-position: center;
+  height: 85vh;
+  overflow: hidden;
+}
+
+.drk:after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: black;
+  opacity: 0.6;
+  z-index: 1;
+}
+
+.carousel-caption {
+  z-index: 2 !important;
+  position: absolute;
+  right: 15%;
+  bottom: 29.25rem;
+  opacity: 0.6;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  display: inline-block;
+  width: 3rem;
+  height: 3rem;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: 70% 70%;
+  background-color: #2e7263;
+  border-radius: 8px;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .show > .nav-link {
+  color: #d2930f;
+  font-weight: 800;
+}
+
+.header-line:after {
+  content: " ";
+  display: block;
+  border: 2px solid #fff;
+  width: 62%;
+  margin-top: 10px;
+}
+
+.img-blue-border {
+  border: 4px solid #2e7263;
+}
+
+.no-underline {
+  text-decoration: none;
+}
+.custom-accordion {
+  background-color: #06ad89;
+  color: #fff;
+  font-weight: 800;
+  border-radius: 50px;
+  box-shadow: none;
+}
+
+.custom-accordion:not(.collapsed) {
+  background-color: #2e7263;
+  color: #fff;
+  border-radius: 50px;
+}
+
+.accordion-body {
+  background-color: #3c3c3b;
+}
+
+.accordion-button:focus {
+  box-shadow: none;
+}
+
+.accordion-item {
+  background-color: transparent;
+  border: none;
+  margin-top: 1rem;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #2e7263;
+  color: #fff;
+}
+
+.accordion-item:first-child .accordion-button {
+  border-top-left-radius: 3rem;
+  border-top-right-radius: 3rem;
+}
+
+.accordion-item:last-child .accordion-button {
+  border-bottom-left-radius: 3rem;
+  border-bottom-right-radius: 3rem;
+}
+
+.card-height {
+  min-height: 33.2rem;
+}
+
+.card-activity {
+  background-color: #d2930f;
+  height: 28.5rem;
+  padding: 2rem;
+  width: 50%;
+}
+.card-team {
+  background-color: #3c3c3b;
+  color: #fff;
+}
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.dropdown-item:hover {
+  background-color: #035d49;
+}
+/*-----------------------*/
+
+.btn-primary {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #035d49;
+  --bs-btn-border-color: #035d49;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #06ad89;
+  --bs-btn-hover-border-color: #06ad89;
+  --bs-btn-focus-shadow-rgb: 49, 132, 253;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #2e7263;
+  --bs-btn-active-border-color: #06ad89;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #2e7263;
+  --bs-btn-disabled-border-color: #2e7263;
+}
+/*--------------------------------*/
+
+.border-bottom-blue {
+  border-bottom: 2px solid #2e7263;
+}
