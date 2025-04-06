@@ -6,8 +6,8 @@
       <img src="https://www.pccaa.gov.mz/assets/imagens/outras/grupo-bm.png" style="width: 25px;">
     </a>
 
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+    <button class="navbar-toggler"  type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon" style="color: #d2930f;"></span>
     </button>
 
     <div class="collapse navbar-collapse" id="navbarScroll">

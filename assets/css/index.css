@@ -146,6 +146,10 @@ a {
 .dropdown-item:hover {
   background-color: #035d49;
 }
+
+.navbar-toggler-icon {
+  background-color: #fff;
+}
 /*-----------------------*/
 
 .btn-primary {
