@@ -1,11 +1,11 @@
-<div class="container pb-5" style="margin-top: -6.2rem; z-index: 10; position: relative;">
+<div class="container pb-5" style="margin-top: -7.7rem; z-index: 10; position: relative;">
   <div class="row pt-5 text-white g-4">
     
     <!-- QUEM SOMOS -->
     <div class="col-12 col-md-6">
     <div style="background-color: #d2930f; height: fit-content; z-index:1000;">
     <h3 class="ff-hooltwood text-white ms-2 p-1">QUEM SOMOS</h3>
-        <div class="p-4" style="background-color: #3c3c3b; min-height: 23.3rem;">
+        <div class="p-4" style="background-color: #3c3c3b; min-height: 23.6rem;">
           <p>
             O <strong>PCCAA</strong> é uma iniciativa financiada pelo <strong>Grupo Banco Mundial</strong>, que beneficia os países de Malawi e Moçambique.
           </p>

@@ -8,9 +8,11 @@
 
 			<p class="mt-3 mb-2 fw-800">Redes Sociais</p>
 			<p>Siga-nos e mantenha-se actualizado :</p>
-			<p><i class="fa-brands fa-facebook"></i> <strong>Facebook:</strong> <a href="https://facebook.com/pccaamz">@pccaa</a></p>
-			<p><i class="fa-brands fa-linkedin"></i> <strong>Linkedin:</strong> <a href="https://linkedin.com/company/pccaamz">@pccaa</a></p>
-			<p><i class="fa-brands fa-twitter"></i> <strong>Twitter:</strong> <a href="https://twitter.com/pccaamz">@pccaa</a></p>
+			<div >
+			 <p><i class="fa-brands fa-facebook"></i><!-- <strong>Facebook:</strong> --><a style="margin-left:5px; color: white;" href="https://facebook.com/pccaamz">@pccaa</a></p> 
+			<p><i class="fa-brands fa-linkedin"></i> <!--<strong>Linkedin:</strong>--> <a style="margin-left:5px; color: white;" href="https://linkedin.com/company/pccaamz">@pccaa</a></p>
+			<p><i class="fa-brands fa-twitter"></i> <!--<strong>Twitter:</strong>--> <a style="margin-left:5px; color: white;" href="https://twitter.com/pccaamz">@pccaa</a></p>
+			</div>
 		</div>
 		<div class="col-sm-12 col-md-12 col-xl-6 order-0 order-sm-0 order-md-0 order-lg-1 order-xl-1 pb-xs-5 mb-5 mb-sm-5 mb-md-5 mb-lg-0 mb-xl-0">
 		<h3 class="ff-hooltwood text-left text-white pb-5">MANDE-NOS UMA MENSAGEM</h3>

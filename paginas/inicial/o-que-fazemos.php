@@ -3,12 +3,12 @@
     <div class="col">
       <div style="background-color: #d2930f; height: fit-content;">
         <h3 class="ff-hooltwood text-white ms-2 p-1">COMPONENTES</h3>
-        <div class="p-3" style="background-color: #3c3c3b; border-radius: 8px; ">
+        <div class="p-3" style="background-color: #3c3c3b; ">
           <div class="" style="background-color: #3c3c3b; border-radius: 0 0 20px 20px; overflow-x: hidden;">
             <div class="accordion" id="accordionExample">
               <!-- Componente 1 -->
               <div class="accordion-item bg-transparent border-0 mb-3">
-                <h2 class="accordion-header" id="headingOne">
+                <h2 class="accordion-header"  id="headingOne">
                   <button class="accordion-button custom-accordion" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne">
                     Componente #1
                   </button>

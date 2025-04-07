@@ -1,8 +1,26 @@
-<div style="background-color: #3c3c3b;">
+<div style="background-color: #3c3c3b;"> 
+  <div class="sumary-item w-100" 
+     style="background-image: url('assets/imagens/slides/7.jpeg'); 
+            background-size: cover; 
+            background-position: center; 
+            height: 10vh; 
+            display: flex; 
+            justify-content: center; 
+            align-items: center; 
+            text-align: center;">
+  <h5 class="ff-hooltwood" style="font-size: 2rem; 
+             color: transparent; 
+  -webkit-text-stroke: 1px white;
+             font-family: 'Anton', sans-serif; 
+             ">
+    ÚLTIMOS ARTIGOS
+  </h5>
+</div>
+
 <div class="container mb-5 pb-5">
-	<div class="row pt-5 mt-5">
+	<div class="row pt-4 mt-1">
 		<div class="col">
-			<h3 class="ff-hooltwood text-center pb-5">ÚLTIMOS ARTIGOS</h3>
+
 			<div id="owl-noticias" class="owl-carousel owl-theme">
 			  
 			  <div class="card card-height">

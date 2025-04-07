@@ -1,8 +1,9 @@
-<div id="parceiros" class="container mb-5 pb-5">
-  <div class="row pt-5 mt-5">
+<div id="parceiros" class="container mb-5 pb-5 ">
+  <div class="row pt-5 mt-1">
 
-    <div class="col-md-6">
-      <div style="background-color: #2e7263; height: fit-content;">
+    <div class="col-md-6 ">
+      <div class="bg-white border">
+      <div  style="background-color: #2e7263; height: fit-content;">
         <h3 class="ff-hooltwood text-white ms-2 p-1">PARCEIROS</h3>
       </div>
 	  <div id="owl-parceiros" class="owl-carousel owl-theme">
@@ -83,6 +84,7 @@
 
 </div>
     </div>
+    </div>
 
 
 	<div class="col-md-6">
@@ -90,7 +92,7 @@
 
         <!-- Video -->
         <div >
-          <div class="ratio ratio-16x9 h-100">
+          <div class="ratio ratio-16x9 " style="height: 25.9rem;">
             <iframe src="https://www.youtube.com/embed/" title="V" allowfullscreen></iframe>
           </div>
         </div>
