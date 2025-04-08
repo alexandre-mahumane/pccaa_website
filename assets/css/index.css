@@ -5,6 +5,7 @@
 a {
   color: #d2940faf;
   text-decoration: underline;
+  background-position: initial;
 }
 
 .fw-800 {
@@ -39,13 +40,44 @@ a {
   z-index: 1;
 }
 
-.carousel-caption {
-  z-index: 2 !important;
-  position: absolute;
-  right: 15%;
-  bottom: 29.25rem;
-  opacity: 0.6;
+.animated-caption span {
+  display: block; /* quebra linha */
+  transform: translateX(-100%);
+  opacity: 0;
+  animation: slideIn 0.6s forwards;
 }
+
+.animated-caption span:nth-child(1) {
+  animation-delay: 0.1s;
+}
+.animated-caption span:nth-child(2) {
+  animation-delay: 0.3s;
+}
+.animated-caption span:nth-child(3) {
+  animation-delay: 0.5s;
+}
+.animated-caption span:nth-child(4) {
+  animation-delay: 0.7s;
+}
+.animated-caption span:nth-child(5) {
+  animation-delay: 0.9s;
+}
+
+@keyframes slideIn {
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/* .carousel-caption {
+  z-index: 200 !important;
+  position: absolute;
+  right: 5%;
+  bottom: 29.25rem;
+  color: red !important;
+  opacity: 1;
+} */
 
 .carousel-control-next-icon,
 .carousel-control-prev-icon {

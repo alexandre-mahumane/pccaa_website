@@ -25,7 +25,7 @@ ACTIVIDADES
             <div class="card-activity p-3 w-100 h-100" style="background-color: #d2930f;">
               <p>
                 <i class="fa-solid fa-clipboard-check" style="color:#fff; font-size: 25px; margin-right: 10px;"></i>
-                <span class="fw-800">PLANIFICADAS</span><br><br>
+                <span class="fw-800" style="color:#2e7263;">PLANIFICADAS</span><br><br>
                 • Reabilitação de estradas de ligação entre os centros de produção e de escoamento;<br>
                 • Melhoramento da capacidade de trabalho de instituições envolvidas no projecto;<br>
                 • Melhoria do sistema de gestão coordenada de fronteiras;<br> 
@@ -42,7 +42,7 @@ ACTIVIDADES
             <div class="card-activity p-3 w-100 h-100" style="background-color: #d2930f;">
               <p>
                 <i class="fa-solid fa-star" style="color:#fff; font-size: 25px; margin-right: 10px;"></i>
-                <span class="fw-800">REALIZADAS</span><br><br>
+                <span class="fw-800" style="color:#2e7263;">REALIZADAS</span><br><br>
                 Até ao momento, as actividades já realizadas no âmbito da implementação do projecto incluem:<br>
                 • Preparação dos instrumentos essenciais para as obras das Estradas Conectoras;<br>
                 • Reuniões do Comité Técnico Conjunto Tripartido (Moçambique, Malawi e Zâmbia);<br>
