@@ -68,17 +68,6 @@
         <h5 class="text-uppercase ff-hooltwood">Projecto de Comércio e Conectividade da África Austral</h5>
       </div> 
     </div>
-    <div class="carousel-item active">
-      <img src="assets/imagens/slides/7.jpeg" class="d-block w-100" alt="...">
-      <div class="carousel-caption" style="opacity:1;  left:-53%; bottom:13rem;">
-  <h5 class="text-uppercase ff-hooltwood" style="text-align:start; display: inline-block;">
-    <span style=" font-weight: 1000; font-size: 2rem; display: block; transform: translateX(-100%); opacity: 0; animation: slideIn 0.6s forwards; animation-delay: 0.1s;">Conectando</span>
-    <span style="font-weight: 1000; font-size: 2rem; display: block; transform: translateX(-100%); opacity: 0; animation: slideIn 0.6s forwards; animation-delay: 0.3s;">oportunidades</span>
-    <span style="font-weight: 1000; font-size: 2rem; display: block; transform: translateX(-100%); opacity: 0; animation: slideIn 0.6s forwards; animation-delay: 0.5s;">na</span>
-    <span style="font-weight: 1000; font-size: 2rem; display: block; transform: translateX(-100%); opacity: 0; animation: slideIn 0.6s forwards; animation-delay: 0.7s;">África Austral</span>
-  </h5>
-</div>
-    </div>
     <div class="carousel-item">  ADD CLASS DRK FOR OVERLAY EFFECT 
       <img src="assets/imagens/slides/2.jpeg" class="d-block w-100" alt="...">
     </div>
@@ -107,11 +96,3 @@
 </div>
 </div>
 -->
-<style>
-@keyframes slideIn {
-  to {
-    transform: translateX(0);
-    opacity: 1;
-  }
-}
-</style>

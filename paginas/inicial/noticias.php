@@ -1,6 +1,6 @@
 <div style="background-color: #3c3c3b;"> 
   <div class="sumary-item w-100" 
-     style="background-image: url('assets/imagens/slides/7.jpeg'); 
+     style="background-image: url('assets/imagens/banner/3.jpg'); 
             background-size: cover; 
             background-position: center; 
             height: 10vh; 

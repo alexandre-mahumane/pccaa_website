@@ -1,6 +1,6 @@
 <div id="equipa" class="mb-5 pb-5">
 <div class="sumary-item w-100" 
-style="background-image: url('assets/imagens/slides/7.jpeg'); 
+style="background-image: url('assets/imagens/banner/2.jpg'); 
       background-size: cover; 
       background-position: center; 
       height: 10vh; 
