@@ -1,15 +1,18 @@
 <style>
   @keyframes slideInLeft {
     0% {
-      transform: translateX(-50%);
+      transform: translateX(70%);
       opacity: 0;
     }
     100% {
       transform: translateX(0);
       opacity: 1;
     }
-  }
+  }`
 
+  .space{
+      margin-top: 9rem;
+    }
   .fade-in-left {
     animation: slideInLeft 1s ease-out forwards;
   }
@@ -18,6 +21,10 @@
   @media (max-width: 767px) {
     .overlay-content {
       display: none;
+    }
+    .space{
+      margin-top: 14rem;
+      margin-left:-0.3rem
     }
   }
 </style>
@@ -50,10 +57,11 @@
       <!-- <h1 style="font-size: 48px; line-height: 1.2; margin: 0;">
         COMÉRCIO<span style="color: #f4a300;">&</span><br> CONECTIVIDADE
       </h1> -->
-      <p class="fade-in-left" style="font-size: 24px; font-weight:1000; margin-top: 20px;">
-        Conectando oportunidades na África Austral
+      <div class="space" style="margin-top:9rem">
+      <p class="fade-in-left space" style="font-size: 50px; font-weight:1000; ">
+        Conectando <span style="color:#d2940faf;">oportunidades</span> na África <span style="color:#d2940faf;">Austral</span>
       </p>
-    </div>
+    </div></div>
   </div>
 </div>
 

@@ -1,7 +1,8 @@
 <nav class="navbar navbar-expand-lg p-3 fixed-top shadow" style="background-color: #3c3c3b;">
   <div class="container">
     <a class="navbar-brand ff-hooltwood" href="https://www.pccaa.gov.mz/" style="color: #2e7263;">
-      PCCA<span class="ff-hooltwood" style="border-right: 1px solid black; padding-right: 10px;">A</span>
+    <img src="assets/imagens/outras/logo.png" style="width: 100px; height: 100px; margin-left: 10px;"> 
+    <!-- <span class="ff-hooltwood" style="border-right: 1px solid black; padding-right: 10px;">A</span> -->
       <img src="https://www.pccaa.gov.mz/assets/imagens/outras/republica.png" style="width: 25px; margin-left: 10px;">
       <img src="https://www.pccaa.gov.mz/assets/imagens/outras/grupo-bm.png" style="width: 25px;">
     </a>
