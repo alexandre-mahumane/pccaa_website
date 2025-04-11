@@ -17,13 +17,12 @@
     animation: slideInLeft 1s ease-out forwards;
   }
 
-  /* Oculta o conteúdo sobreposto no mobile */
   @media (max-width: 767px) {
     .overlay-content {
       display: none;
     }
     .space{
-      margin-top: 14rem;
+      margin-top: 15rem;
       margin-left:-0.3rem
     }
   }
@@ -54,12 +53,10 @@
     box-sizing: border-box;
   ">
     <div style="max-width: 50%; margin-left:1rem">
-      <!-- <h1 style="font-size: 48px; line-height: 1.2; margin: 0;">
-        COMÉRCIO<span style="color: #f4a300;">&</span><br> CONECTIVIDADE
-      </h1> -->
-      <div class="space" style="margin-top:9rem">
+
+      <div class="space" style="margin-top:10rem">
       <p class="fade-in-left space" style="font-size: 50px; font-weight:1000; ">
-        Conectando <span style="color:#d2940faf;">oportunidades</span> na África <span style="color:#d2940faf;">Austral</span>
+        Conectando <span style="color:#d2930f;">oportunidades</span> na África <span style="color:#d2930f;">Austral</span>
       </p>
     </div></div>
   </div>
